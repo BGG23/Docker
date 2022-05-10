@@ -36,4 +36,3 @@
 · "sudo docker run hello-world"
 
 ![image](https://user-images.githubusercontent.com/91567318/167696798-540c4b3d-babb-4e7a-b907-b6d4e6003da8.png)
-
